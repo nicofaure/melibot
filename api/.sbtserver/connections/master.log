@@ -1,0 +1,10 @@
+New log file opened at Tue May 17 13:10:39 ART 2016 by 88242@mac-nfaure-2.local
+Taking next connection to: 52608
+New client attempting to connect on port: 52609-52608
+  Address = /10.10.32.203:52608
+This client on port 52609 has uuid 3a20ca6d-5ea4-404b-88e0-93fa612a7f60 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-3a20ca6d-5ea4-404b-88e0-93fa612a7f60
+Taking next connection to: 52608
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 52608
